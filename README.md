@@ -75,8 +75,10 @@ Instalação do Bumblebee:
 
 
 Instalação do VirtualGL:  
-```wget https://sourceforge.net/projects/virtualgl/files/2.6.2/virtualgl_2.6.2_amd64.deb -P /tmp/```
-```sudo dpkg -i /tmp/virtualgl_*.deb```
+```
+wget https://sourceforge.net/projects/virtualgl/files/2.6.2/virtualgl_2.6.2_amd64.deb -P /tmp/
+sudo dpkg -i /tmp/virtualgl_*.deb
+```
 
 Caso ocorra erros:  
 ```sudo apt -f install```
