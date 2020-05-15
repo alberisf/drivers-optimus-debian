@@ -6,7 +6,7 @@ Dell Vostro 5470
 Verifique se teu laptop suporta a tecnologia Optimus:  
 ```lspci | egrep 'VGA|3D'```
 
-00:02.0 VGA compatible controller: Intel Corporation Haswell-ULT Integrated Graphics Controller (rev 09)
+00:02.0 VGA compatible controller: Intel Corporation Haswell-ULT Integrated Graphics Controller (rev 09)  
 09:00.0 3D controller: NVIDIA Corporation GK208M [GeForce GT 740M] (rev ff)
 
 Observe que na saída do comando acima foi listado a controladora Intel e Nvidia.
