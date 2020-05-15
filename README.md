@@ -66,7 +66,7 @@ Rode o comando abaixo para identificar o driver_recomendado para sua GPU Nvidia:
 ```nvidia-detect```
 
 
-Altere driver_recomendado pelo driver indicado pelo nvidia-detect. 
+Altere driver_recomendado pelo driver indicado pelo nvidia-detect.   
 ```sudo apt install```
 
 
