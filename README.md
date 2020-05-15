@@ -33,6 +33,7 @@ Reinicie o sistema:
 Preparando a sources.list no Debian 10:  
 ```sudo nano /etc/apt/sources.list```
 
+```
 #
 deb http://deb.debian.org/debian/ buster main non-free contrib
 deb-src http://deb.debian.org/debian/ buster main non-free contrib
@@ -46,7 +47,7 @@ deb-src http://deb.debian.org/debian/ buster-updates main contrib non-free
 deb http://deb.debian.org/debian/ buster-backports main contrib non-free
 deb-src http://deb.debian.org/debian/ buster-backports main contrib non-free
 #
-
+```
 
 Habilite suporte para arquitetura i386 (X86):  
 ```sudo dpkg --add-architecture i386```
