@@ -1,6 +1,4 @@
-# drivers-optimus-debian
-
-#Instalação Driver Nvidia Optimus no Debian 10
+# Istalação Driver Nvidia Optimus no Debian 10
 
 Laptop:
 Dell Vostro 5470
